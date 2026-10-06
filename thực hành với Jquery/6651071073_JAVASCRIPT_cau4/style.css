@@ -1,0 +1,14 @@
+body {
+  margin: 30px;
+  font-family: Arial, sans-serif;
+}
+
+#colorSelect {
+  padding: 4px 8px;
+  min-width: 120px;
+}
+
+#btnRemove {
+  padding: 5px 14px;
+  cursor: pointer;
+}

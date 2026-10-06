@@ -1,0 +1,11 @@
+#text {
+  font-size: 16px;
+  font-family: "Times New Roman", serif;
+  color: black;
+}
+
+#text.new-style {
+  font-size: 24px;
+  font-family: Arial, sans-serif;
+  color: red;
+}
